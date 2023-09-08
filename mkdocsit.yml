@@ -1,0 +1,8 @@
+site_name: demoing
+site_description: demoing stuff
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
